@@ -1,23 +1,73 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48C9B0&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Carlos;Bem-vindo+ao+meu+perfil+:%29)](https://github.com/CarlosEdu1)
+# 👨‍💻 Carlos Martins
 
 <div align="center">
-  <a href="https://github.com/CarlosEdu1">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=CarlosEdu1&show_icons=true&theme=aura&include_all_commits=false&hide=issues"/>
-  </a>
-  <a href="https://github.com/CarlosEdu1">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEdu1&layout=compact&langs_count=7&theme=aura"/>
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer;Spring+Boot+Backend;AWS+Cloud+Enthusiast;Cybersecurity+Student" />
+
 </div>
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=120&section=footer"/>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🛠️ Technologies I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,git,github,mysql,postgres,linux,vscode,idea&theme=dark" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/SEULINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:SEUEMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
